@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: #f3f5f7;
+}
+
+.top1 {
+    margin: 0px auto;
+    height: 70px;
+    background-image: url(../背景图片/图层4.png);
+    background-size: 75px;
+    background-repeat: no-repeat;
+    background-position: 118px 12px;
+    background-color: #061025;
+}
+
+.h1 {
+    color: #d36dfe;
+    margin-left: 200px;
+    line-height: 70px;
+    font-size: 3em;
+    font-style: oblique;
+    float: left;
+}
+
+.nav {
+    float: right;
+    width: 1200px;
+    height: 70px;
+}
+
+.navi {
+    float: right;
+
+}
+
+.nav ul {
+    float: right;
+
+}
+
+.nav li {
+    float: right;
+    height: 70px;
+    list-style: none;
+
+    text-align: center;
+    line-height: 70px;
+}
+
+
+
+.nav ul li a {
+
+    text-align: center;
+    display: block;
+    height: 70px;
+    padding: 0 20px;
+    font-size: 20px;
+    color: #d36dfe;
+    text-decoration: none;
+    border-radius: 40px 0;
+}
+
+.nav ul a:hover {
+    background-color: #d36dfe;
+    color: pink;
+}
+
+.jieshao {
+    display: block;
+    width: 200px;
+    height: 45px;
+    text-indent: 2em;
+    background-color: rgb(218, 28, 123);
+    color: aliceblue;
+    line-height: 45px;
+}
+
+.banner {
+    height: 594px;
+    background-image: url(../背景图片/mmexport1663938184947.png);
+    background-repeat: no-repeat;
+    background-size: 100% 594px;
+}
+
+.w {
+    height: 421px;
+    width: 1250px;
+    margin: 0 auto;
+}
+
+.banle {
+    width: 192px;
+    height: 421px;
+    float: left;
+}
+
+.banle a {
+    display: block;
+    width: 192px;
+    height: 119.1px;
+    background-color: #d38589;
+    font-size: 20px;
+    line-height: 107px;
+    text-indent: 2em;
+    color: #fbdeb3;
+}
+
+.banle a:hover {
+    background-color: #feffe4;
+    color: #be9f9c;
+}
+
+.banri {
+    float: right;
+    width: 1058px;
+    height: 421px;
+}
+
+h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bottom {
+    width: 1250px;
+    margin: 0 auto;
+
+}
+
+.fh {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background: rgba(0, 0, 0, 0.2);
+
+    top: 900px;
+    left: 50%;
+    margin-left: 625px;
+}

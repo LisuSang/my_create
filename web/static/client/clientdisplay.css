@@ -1,0 +1,20 @@
+.header {
+    height: 100px;
+    background-color: #060f26;
+    text-align: center;
+}
+.book_box{
+    text-align: center;
+}
+.book_body{
+    display: inline-block;
+    width: 200px;
+    border: solid 1px;
+
+}
+.book_info{
+
+}
+#pn_input {
+     width: 25px;
+ }

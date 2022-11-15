@@ -1,0 +1,10 @@
+.deco {
+    height: 835px;
+    background-image: url(../../背景图片/mmexport1663937297143.png);
+    background-size: 100%;
+}
+.header {
+    height: 100px;
+    background-color: #060f26;
+    text-align: center;
+}

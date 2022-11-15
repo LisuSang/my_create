@@ -1,0 +1,39 @@
+.header {
+    height: 100px;
+    background-color: #060f26;
+    text-align: center;
+}
+
+.decorate {
+    background-image: url(../../每日图片/aili.png);
+    height: 833px;
+    overflow-y: scroll;
+}
+
+.sco {
+    height: 630px;
+
+    -webkit-overflow-scrolling: touch;
+}
+
+table {
+    border: #430d0d solid 0;
+    border-radius: 20px;
+    background: rgba(64, 6, 66, 0.5);
+
+}
+
+tbody {
+    overflow-y: scroll;
+}
+
+.add {
+
+    display: block;
+    width: 100px;
+    margin: 0 auto;
+}
+
+#pn_input {
+    width: 25px;
+}

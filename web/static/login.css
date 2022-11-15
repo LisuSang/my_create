@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input {
+    outline: none;
+}
+
+i {
+    font-style: normal;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    font-style: normal;
+}
+
+.header {
+    height: 100px;
+    background-color: #060f26;
+    text-align: center;
+}
+
+.nav {
+    height: 40px;
+    width: 800px;
+    background-color: rgb(54, 5, 52);
+    border-top: #060f26;
+    border-top-style: solid;
+    margin: 5px auto auto;
+}
+
+.nav h1 {
+    float: left;
+    width: 500px;
+    margin: 0 auto;
+    color: #d36dfe;
+    line-height: 40px;
+    font-size: 2em;
+    font-style: oblique;
+
+}
+
+.nav h3 {
+    text-align: right;
+
+    font-size: 10px;
+    float: right;
+    color: skyblue;
+    width: 300px;
+    font-weight: 400;
+    line-height: 55px;
+}
+
+.nav a {
+    color: azure;
+}
+
+.decoration {
+    background-image: url(../背景图片/mmexport1663938215306.jpg);
+    background-repeat: no-repeat;
+
+
+}
+
+
+.reerr {
+    color: #ff0000;
+    display: none;
+}
+
+
+.c_body {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.c_body ul {
+    border: solid 1px black;
+    height: 900px;
+    border-bottom: none;
+}
+
+.c_body li {
+    height: 40px;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 20px;
+    line-height: 30px;
+}
+
+.c_body li label {
+    display: inline-block;
+    line-height: 40px;
+    width: 90px;
+    margin-left: 10px;
+    font-size: 1.1em;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+
+}
+
+.c_body li input {
+    margin-left: 20px;
+    height: 25px;
+    margin-bottom: 5px;
+    width: 175px;
+}
+
+.c_body li .submit {
+    display: block;
+    width: 110px;
+    margin: 0 auto;
+    height: 40px;
+    background-color: #d36dfe;
+    color: white;
+}
+
+.decoration .footer {
+    height: 100px;
+    border: solid 1px black;
+}
+.tname {
+    color: #ff0000;
+    display: none;
+
+}
+.footer .footer_adress {
+    width: 800px;
+    margin: 5px auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    text-align: center;
+    color: #175b92;
+}
+.err {
+    color: red;
+    margin-left: 34px;
+
+}
